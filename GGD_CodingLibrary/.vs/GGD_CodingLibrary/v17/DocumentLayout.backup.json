@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\imouseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:imouseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\ikeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:ikeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMouseInput.cs",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\IMouseInput.cs",
+              "RelativeDocumentMoniker": "IMouseInput.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\IMouseInput.cs",
+              "RelativeToolTip": "IMouseInput.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T19:28:11.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKeyboardInput.cs",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\IKeyboardInput.cs",
+              "RelativeDocumentMoniker": "IKeyboardInput.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\IKeyboardInput.cs",
+              "RelativeToolTip": "IKeyboardInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T19:11:23.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Utility.cs",
+              "RelativeDocumentMoniker": "Utility.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Utility.cs",
+              "RelativeToolTip": "Utility.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T18:28:23.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2D.cs",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\2D.cs",
+              "RelativeDocumentMoniker": "2D.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\2D.cs",
+              "RelativeToolTip": "2D.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA9wCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T18:19:31.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
