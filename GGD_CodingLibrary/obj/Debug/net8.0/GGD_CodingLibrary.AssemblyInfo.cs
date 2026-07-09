@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GGD_CodingLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e76662b30eaabcf1d6790f09bb4435ae30ada71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49bbf9098405e54918f6d1f420dd0e77aa8511b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GGD_CodingLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GGD_CodingLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

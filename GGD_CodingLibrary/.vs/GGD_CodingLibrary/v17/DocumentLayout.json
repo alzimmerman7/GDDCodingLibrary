@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\aabb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:aabb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\imouseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\ikeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:ikeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AABB.cs",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\AABB.cs",
+              "RelativeDocumentMoniker": "AABB.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\AABB.cs",
+              "RelativeToolTip": "AABB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T23:24:18.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Collision.cs",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Collision.cs",
+              "RelativeDocumentMoniker": "Collision.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Collision.cs",
+              "RelativeToolTip": "Collision.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T23:17:56.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IMouseInput.cs",
               "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\IMouseInput.cs",
               "RelativeDocumentMoniker": "IMouseInput.cs",
@@ -43,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IKeyboardInput.cs",
               "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\IKeyboardInput.cs",
               "RelativeDocumentMoniker": "IKeyboardInput.cs",
@@ -56,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Utility.cs",
               "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Utility.cs",
               "RelativeDocumentMoniker": "Utility.cs",
@@ -75,18 +117,10 @@
               "RelativeDocumentMoniker": "2D.cs",
               "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\2D.cs",
               "RelativeToolTip": "2D.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAA9wCwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T18:19:31.506Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
