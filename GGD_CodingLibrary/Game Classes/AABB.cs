@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace GGD_CodingLibrary
 {
+    //For game engines that dont have rectangles this class is a substitute to hold the hitbox
+    //dimensions and position
     public class AABB
     {
         public float Width { get; }

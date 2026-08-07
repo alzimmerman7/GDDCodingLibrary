@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\game classes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:game classes\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\game classes\\aabb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:game classes\\aabb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\aabb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:aabb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\game classes\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:game classes\\collision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\imouseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:imouseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\game classes\\ikeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:game classes\\ikeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\ikeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:ikeyboardinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\game classes\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:game classes\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|c:\\users\\anush\\onedrive\\documents\\github\\gddcodinglibrary\\ggd_codinglibrary\\game classes\\imouseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AA41AC-A3E7-45D4-A048-EC03FF224603}|GGD_CodingLibrary.csproj|solutionrelative:game classes\\imouseinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,38 +46,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AABB.cs",
-              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\AABB.cs",
-              "RelativeDocumentMoniker": "AABB.cs",
-              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\AABB.cs",
-              "RelativeToolTip": "AABB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\AABB.cs",
+              "RelativeDocumentMoniker": "Game Classes\\AABB.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\AABB.cs",
+              "RelativeToolTip": "Game Classes\\AABB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-09T23:24:18.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Collision.cs",
-              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Collision.cs",
-              "RelativeDocumentMoniker": "Collision.cs",
-              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Collision.cs",
-              "RelativeToolTip": "Collision.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\Collision.cs",
+              "RelativeDocumentMoniker": "Game Classes\\Collision.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\Collision.cs",
+              "RelativeToolTip": "Game Classes\\Collision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-09T23:17:56.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IMouseInput.cs",
-              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\IMouseInput.cs",
-              "RelativeDocumentMoniker": "IMouseInput.cs",
-              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\IMouseInput.cs",
-              "RelativeToolTip": "IMouseInput.cs",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\IMouseInput.cs",
+              "RelativeDocumentMoniker": "Game Classes\\IMouseInput.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\IMouseInput.cs",
+              "RelativeToolTip": "Game Classes\\IMouseInput.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T19:28:11.569Z",
@@ -85,12 +85,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IKeyboardInput.cs",
-              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\IKeyboardInput.cs",
-              "RelativeDocumentMoniker": "IKeyboardInput.cs",
-              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\IKeyboardInput.cs",
-              "RelativeToolTip": "IKeyboardInput.cs",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\IKeyboardInput.cs",
+              "RelativeDocumentMoniker": "Game Classes\\IKeyboardInput.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\IKeyboardInput.cs",
+              "RelativeToolTip": "Game Classes\\IKeyboardInput.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T19:11:23.939Z",
@@ -98,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Utility.cs",
-              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Utility.cs",
-              "RelativeDocumentMoniker": "Utility.cs",
-              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Utility.cs",
-              "RelativeToolTip": "Utility.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\Utility.cs",
+              "RelativeDocumentMoniker": "Game Classes\\Utility.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\Utility.cs",
+              "RelativeToolTip": "Game Classes\\Utility.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T18:28:23.826Z",
               "EditorCaption": ""
@@ -112,12 +112,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2D.cs",
-              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\2D.cs",
-              "RelativeDocumentMoniker": "2D.cs",
-              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\2D.cs",
-              "RelativeToolTip": "2D.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\Player.cs",
+              "RelativeDocumentMoniker": "Game Classes\\Player.cs",
+              "ToolTip": "C:\\Users\\anush\\OneDrive\\Documents\\GitHub\\GDDCodingLibrary\\GGD_CodingLibrary\\Game Classes\\Player.cs",
+              "RelativeToolTip": "Game Classes\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T18:19:31.506Z",
               "EditorCaption": ""

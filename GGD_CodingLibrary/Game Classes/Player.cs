@@ -2,6 +2,9 @@
     Made by alzimmerman7
 
     Useful code for 2D games
+    Can be used for 2D Sidescroller and 2D Topdown
+    However, Default will be set to Sidescroller, to switch uncomment the ones
+    labeled for topdown and recomment the ones for sidescroller
  */
 using System;
 using System.Collections.Generic;
@@ -11,10 +14,17 @@ using System.Threading.Tasks;
 
 namespace GGD_CodingLibrary
 {
-    //Can be used for 2D Sidescroller and 2D Topdown
-    //However, Default will be set to Sidescroller, to switch uncomment the ones
-    //labeled for topdown and recomment the ones for sidescroller
-    internal class _2D
+    /*
+        This is the explanation of the Player class and what needs to be included for 
+        standard 2D single player games
+        
+        The Player class will include the foundations of what the player can do such as:
+            movement
+            collision
+            animation - will not be gone into due to differences based on game engine prefrence
+            action
+     */
+    internal class Player
     {
         Utility util;
         Collision collision;
@@ -22,7 +32,16 @@ namespace GGD_CodingLibrary
         private readonly IKeyboardInput kbInput;
         private readonly IMouseInput mouseInput;
 
-        internal _2D(IKeyboardInput _kbInput, IMouseInput _mouseInput)
+        //Player based Properties
+
+        //Player Based Variables
+        private float X; //Holds X position
+        private float Y; //Holds Y position
+        private float _gravity;
+        private float _friction;
+        private float _velocity;
+
+        internal Player(IKeyboardInput _kbInput, IMouseInput _mouseInput)
         {
             kbInput = _kbInput;
             mouseInput = _mouseInput;
@@ -30,8 +49,11 @@ namespace GGD_CodingLibrary
 
             //Key Actions
             kbInput.OnKeyPressed += KeyAction;
+
+            //Set any Player Constants Here
         }
 
+        //Movement and Action Controls via Key Presses
         private void KeyAction(string key)
         {
             switch (key.ToLower())
@@ -119,12 +141,27 @@ namespace GGD_CodingLibrary
             //player.Y += directionVector[1];
 
             //This method works the same for sidescroller and topdown
-            //It will prevent the player sprite from overalapping any surrounding sprite
+            //It will prevent the player sprite from overlapping any surrounding sprites
         }
 
-        //---------------------------------
+        //--------------------------------------------------------------------------------------------------
         //Movement
-        //---------------------------------
+        //  For player movement it is typical to change the players position in the X and Y directions
+        //  In 2D side scroller to go Left & Right you would change the X and to Jump & Crouch you change Y
+        //      - Specifically for crouching you can either change the Y or make the player size be smaller
+        //  In 2D Top Down to go Left & Right change the X and to move Up & Down change the Y
+        //  Depending on the X & Y axis in your chosen game engine you either subtract or add to the X & Y
+        //  
+        //  Depending on whether you want to add friction or acceleration to your movement you can either 
+        //  change the X and Y using vectors or set numbers
+        //
+        //  For Gravity needed when jumping or falling in a sidescroller it should be a set number that is
+        //  continuously added to the Y direction while the player is not colliding with anything in the
+        //  bottom Y direction. When the player is on solid tiles the gravity should no longer be added
+        //
+        //  For actions that affect movement such as a dash, double jump, speed boost, etc. They should be
+        //  made seperate from the normal movement as their own methods and get called when needed
+        //--------------------------------------------------------------------------------------------------
 
         //Character Moves Left
         private void MoveLeft(){}
@@ -144,5 +181,16 @@ namespace GGD_CodingLibrary
         //Character Crouchs
         private void Crouch() { }
 
+        //-----------------------------------------------------------------------------------------
+        //Action
+        //The action section of the player class completely depends on what you want for you game
+        //Most of the methods are completely specific depending on what you do
+        //However, there are some base things that are often used in games such as:
+        //  - attacking
+        //  - interacting
+        //  - movement based actions
+        //attacking and interacting would be down through either mouse or keyboard inputs and
+        //movement based actions would mostly be carried out through keyboard inputs
+        //-----------------------------------------------------------------------------------------
     }
 }

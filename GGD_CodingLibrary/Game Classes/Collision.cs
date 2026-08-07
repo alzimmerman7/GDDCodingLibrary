@@ -7,6 +7,15 @@ using System.Threading.Tasks;
 
 namespace GGD_CodingLibrary
 {
+    /*
+        This class contains code that returns whether the player and something else 
+        is colliding and also returns the amount of distance the player needs to move
+        to stop overlapping.
+
+        It takes in the players hitbox as a rectangle and the other sprite as a rectangle
+        and calculates the overlapping distance.
+
+     */
     public class Collision
     {
         public Collision() { }
